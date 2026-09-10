@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+.venv/
+path/to/venv/
+datasets/
+models/
+reports/
+*.pth
+*.pt
