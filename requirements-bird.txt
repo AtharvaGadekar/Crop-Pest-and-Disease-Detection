@@ -1,0 +1,6 @@
+# Pygame owns the display; OpenCV's GUI libraries conflict with it on macOS.
+ultralytics-opencv-headless==8.4.147
+# Verified without SDL; the 5.0.0.93 macOS headless wheel still includes it.
+opencv-python-headless==4.11.0.86
+pygame-ce>=2.5,<3
+Pillow>=10

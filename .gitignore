@@ -5,7 +5,6 @@ __pycache__/
 .env.*
 .venv/
 path/to/venv/
-datasets/
 models/
 reports/
 *.pth
